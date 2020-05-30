@@ -1,0 +1,1150 @@
+body {
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: url(stella.jpg);
+	background-position: 0px 0px;
+	background-size: cover;
+	margin: 0px;
+}
+
+
+
+.mail{
+	width: 200; 
+	
+	float: right;
+	
+}
+
+
+.orologio{
+	
+	width: 136; 
+	height: 31;
+	float: right;
+	top: 50%;
+	transform: translate(-50%, 0%);
+}
+
+
+.listino_prezzi{
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: url(hyl.jpg );
+	background-position: 0px 0px;
+	background-size: cover;
+	margin: 0px;
+}
+
+
+.laptop{
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: url(gepi.jpg);
+	background-position: 0px 0px;
+	background-size: cover;
+	margin: 0px;
+	
+}
+
+
+.guida20{
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: url(negro.jpg);
+	background-position: 0px 0px;
+	background-size: cover;
+	margin: 0px;
+	
+}
+
+
+
+
+.guida2{
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: url(blu.jpg);
+	background-position: 0px 0px;
+	background-size: cover;
+	margin: 0px;
+	
+}
+
+
+
+.pcgaming{
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: url(red.jpg);
+	background-position: 0px 0px;
+	background-size: cover;
+	margin: 0px;
+}
+
+
+.back_cpu_4{
+	
+	width:40px;
+	height:40px;
+	float:left;
+	top: 0px;
+	position: absolute;
+	
+}
+
+
+
+.back_cpu{
+	
+	
+	width:40px;
+	height:40px;
+	left: 60px;
+	top: 0px;
+	position: absolute;
+	
+}
+
+
+
+.video_cpu{
+	
+	width: 800px;
+	height: 400px;
+	left:50%;
+	top: 80px;
+	position: absolute;
+	background-color:green;
+
+	transform: translate(-50%, 0%);
+	border: 3px solid #000000;
+	
+}
+
+
+
+
+.casa{
+	
+	width:40px;
+	height:40px;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	
+}
+
+
+
+.ram{
+	
+	width:350px;
+	height:350px;
+	left: 250px;
+	top: 100px;
+	position: fixed;
+	transform: translate(-50%, 0%);
+	border: 3px solid #000000;
+	
+}
+
+
+
+
+.cpu{
+	
+	width:350px;
+	height:350px;
+	left: 250px;
+	top: 100px;
+	position: fixed;
+	transform: translate(-50%, 0%);
+	border: 3px solid #000000;
+}
+
+
+.laptop_css_tabella{
+	
+	width:900px;
+	height:2290;
+	top:50px;
+	background-color:green;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+	
+}
+
+
+
+.listinoprezzi_css_tabella{
+	
+	width:900px;
+	height:2290;
+	top:50px;
+	background-color:yellow;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+}
+
+
+
+.tabellacss{
+	
+
+	
+	width:900px;
+	height:2290;
+	top:50px;
+	background-color:red;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+	
+}
+
+
+
+
+.testo_guida{
+	
+	width: 900px;
+	#height:750px;
+	left:50px;
+	top: 50px;
+	position: absolute;
+	background-color:#e8e8e8;
+	font-size: 20px;
+	
+	
+}
+
+
+
+.testo_cpu{ /*ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd*/
+	
+	border: 2px ridge black;
+	width: 900px;
+	height:300px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:green;
+	font-size: 20px;
+	
+}
+
+
+.contatore{
+	
+	float:left;
+	
+}
+
+
+
+.testo_totale_000{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	#height:404px;
+	left:50px;
+	top:550px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+}
+
+
+.testo_totale_60{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	height:342px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+}
+
+
+
+
+
+.testo_totale_6{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	height:405px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+	
+}
+
+
+
+.testo_totale_4{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	height:317px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+	
+}
+
+
+.testo_totale_3{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	height:223px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+}
+
+
+.testo_totale_2{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	#height:290px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+	
+}
+
+
+
+.spazio_vuoto_0987{
+	
+	width:100%;
+	left:0%;
+	height:27%;
+	top:1769px;
+	position: absolute;
+	#transform: translate(-25%, 0%);
+	#background-color:red;
+	
+}
+
+
+.spazio_vuoto_ri{
+	
+	width:900px;
+	left:50%;     
+	height:27%;
+	top:455px;
+	position: relative;
+	transform: translate(-50%, 0%);
+	#background-color:blue;
+	
+}
+
+
+.testo_ri{
+	
+	
+	width: 900px;
+	#height:365px;
+	left:50px;
+	top: 50px;
+	position: absolute;
+	background-color:#e8e8e8;
+	font-size: 20px;
+}
+
+
+.sfondo_bianco_ri{
+	
+	width:1000px;
+	height:455px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+}
+
+
+.sfondo_bianco_u{  /*dwdwdbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbddddddddddddddddddddddddddddddddddddddddddddddddddd*/
+	
+	width:1000px;
+	height:1769px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+	
+}
+
+
+
+.sfondo_bianco_start{
+	
+	width:1000px;
+	height:565px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+	
+}
+
+.sfondo_bianco_ali{
+	
+	
+	width:1000px;
+	height:992px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+
+}
+
+
+.testo_totale_1{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	height:271px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+}
+
+
+.testo_totale{
+	
+	#border: 2px solid #000000;	
+	width: 900px;
+	height:300px;
+	left:50px;
+	top:600px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+}
+
+
+
+
+.testo_pc{
+	
+	
+	width: 900px;
+	height:150px;
+	left:50px;
+	top:730px;
+	position: absolute;
+	background-color:green;
+	font-size: 20px;
+}
+
+
+
+
+.testo_index{
+	
+	
+	width:900px;
+	height:150px;
+	left:50px;
+	top:730px;
+	text-align: center;
+	font-size: 35px;
+	position: absolute;
+	#background-color:green;
+}
+
+
+
+
+.generale_2{
+	
+	width:100%;
+	height:100%;
+	top:27%;
+	position: absolute;
+	#background-color:green;
+}
+
+
+
+.sfondo_top{
+	width:100%;
+	height:27%;
+	position: fixed;
+	#background-color:red;
+	
+}
+
+
+
+.sfondo_dx{
+	
+	width:25%;
+	left:75%;
+	height:1000px;
+	position: absolute;
+	#transform: translate(-25%, 0%);
+	#background-color:yellow;
+	
+	
+}
+
+
+.sfondo_sx{
+	
+	width:25%;
+	height:1000px;
+	
+	position: absolute;
+	#transform: translate(-25%, 0%);
+	#background-color:green;
+	
+	
+}
+
+
+.lucchetto{
+	width: 100px;
+    height: 100px;
+    left: 0%;
+    top: 0%;
+    position: absolute;
+    #transform: translate(-50%, 0%);
+	
+
+}
+
+
+.spazio_vuoto_start{
+	
+	width:900px;
+	left:50%;     
+	height:27%;
+	top:565px;
+	position: relative;
+	transform: translate(-50%, 0%);
+	#background-color:blue;
+	
+}
+
+
+
+.spazio_vuoto_computer{
+	
+	width:900px;
+	left:50%;     
+	height:27%;
+	top:1085px;
+	position: relative;
+	transform: translate(-50%, 0%);
+	#background-color:blue;
+	
+}
+
+
+.spazio_vuoto_laptop{
+	
+	width:900px;
+	left:50%;     
+	height:27%;
+	top:1617px;
+	position: relative;
+	transform: translate(-50%, 0%);
+	#background-color:blue;
+	
+}
+
+
+
+.spazio_vuoto_pcdagaming{
+	
+	width:900px;
+	left:50%;
+	height:27%;
+	top:2340px;
+	position: relative;
+	transform: translate(-50%, 0%);
+	#background-color:red;
+}
+
+
+
+.spazio_vuoto_guida{
+
+    width:100%;
+	left:0%;
+	height:27%;
+	top:846px;
+	position: absolute;
+	#transform: translate(-25%, 0%);
+	#background-color:red;
+
+
+}
+
+
+.spazio_vuoto_ali_video{
+	
+	width:100%;
+	left:0%;
+	height:27%;
+	top:1000px;
+	position: absolute;
+	#transform: translate(-25%, 0%);
+	#background-color:red;
+	
+	
+}
+
+
+
+.testo_pc_100{
+	
+	width: 900px;
+	/*height:969px;*/
+	left:50px;
+	top:730px;
+	position: absolute;
+	background-color:#c8c8c8;
+	font-size: 20px;
+	
+	
+}
+
+
+
+
+
+
+.spazio_vuoto_index{
+	
+	width:100%;
+	left:0%;
+	height:27%;
+	top:992px;
+	position: absolute;
+	#transform: translate(-25%, 0%);
+	#background-color:red;
+	
+	
+	
+}
+
+
+
+.punto_esclamativo{
+	
+	width:700px;
+	height:700px;
+	left: 50%;
+	top: 10px;
+	position: fixed;
+	transform: translate(-50%, 0%);
+	
+	
+}
+
+
+.sfondo_bianco_madre{
+	
+	width:1000px;
+	height:1050px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+}
+
+
+.gif{
+	width:100px;
+	height:100px;
+    left: 50%;
+	position: relative;
+	transform: translate(-50%, 0%);
+	
+}
+
+
+.sfondo_bianco_guida{
+	
+	width:1000px;
+	height:846px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+	
+}
+
+
+
+.sfondo_bianco{
+	
+	width:1000px;
+	height:1000px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+	
+	
+}
+
+
+
+.sfondo_bianco_50{
+	
+	width:1000px;
+	height:1617px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+}
+
+
+
+.sfondo_bianco_500{
+	
+	width:1000px;
+	height:1085px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+	
+	
+}
+
+
+
+.sfondo_bianco_5{
+	
+	width:1000px;
+	height:2340px;
+	background-color:white;
+    left: 50%;
+	position: absolute;
+	transform: translate(-50%, 0%);
+}
+
+
+
+.prova{
+	
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	
+}
+
+
+
+
+
+#gg{
+	background-color:blue;
+	
+}
+
+
+
+#bianco{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	top: -198px;
+	left: 1052px;
+}
+
+
+
+
+#nonno{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	top: -298px;
+	left: 1012px;
+	
+}
+
+
+
+#scritta1{
+	margin:0px 300px;
+	position: relative;
+	font-size: 20px;
+	min-height:100px;
+	top:600px;
+	padding-left: 0px;
+	max-width: 900px;
+}
+
+
+
+#freccia{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: -425px;
+	left: 228px;
+}
+
+
+
+
+
+#ricerca{
+	
+	top: 3000px;
+}
+
+
+#ciao{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: -385px;
+	left: 290px;
+}
+
+
+
+.nero{
+	width: 200px;
+	height: 200px;
+	
+	top: 0px;
+	float:right;
+}
+
+
+#nitido2{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: -328px;
+	left: 225px;
+}
+
+
+
+#saccarosio{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: -123px;
+	left: 225px;
+}
+
+
+
+#cpu1{
+	width: 300px;
+	height: 300px;
+	position: relative;
+	top: 280px;
+	left: 348px;
+	border: 5px solid #000000;	
+}
+
+
+
+h2{
+	margin:0px 300px;
+	position: relative;
+	font-size: 20px;
+	min-height:100px;
+	top: 50px;
+	padding-left: 0px;
+	max-width: 900px;
+	
+}
+
+
+
+#none{
+	width: 500px;
+	height: 500px;
+	position: relative;
+	top: 280px;
+	left: 500px;
+	border: 5px solid #000000;
+	
+}
+
+
+
+div h3{
+	margin:0px 300px;
+	position: relative;
+	font-size: 20px;
+	min-height:100px;
+	top:300px;
+	padding-left: 0px;
+	max-width: 900px;
+	
+}
+
+
+	
+.immagine{
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	top: 50px;
+	left: 50%;
+	border: 3px solid #000000;
+	transform: translate(-50%, 0%);
+}
+
+
+#guida{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: 10px;
+	left: 225px;
+}
+
+
+  
+div h1{
+	margin:0px 300px;
+	position: relative;
+	font-size: 20px;
+	min-height:100px;
+	top:700px;
+	padding-left: 0px;
+	max-width: 900px;
+} 
+
+
+
+#myCoolText {
+	color: #003366;
+	border: 2px ridge #ccffff;
+	padding: 15px;
+	text-align: center;
+}
+
+
+
+
+nav ul li {
+	list-style-type: none;
+	display: block;
+	
+}
+
+
+
+nav ul li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 75px;  /*DISTANZA TRA UNA PAROLA ED UN ALTRA*/
+	margin-left: 1px;
+	color: yellow;
+}
+
+
+
+nav ul li a {
+	text-decoration: none;
+	color: white;
+
+	
+}
+
+
+
+
+
+
+
+
+
+nav ul {
+	border-radius: 0px;
+	text-align:center;
+	background-color: 	black;
+	border-style: inset;
+	border-color: white;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	padding: 25px;
+	border-bottom-width: 3px;
+	border-bottom-color: white;
+    border-bottom-style: solid;
+}
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 40px;     
+  text-decoration: none;
+  font-size: 20px;
+  
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+.stylishBox {
+	background-color:#ffca7a;
+	color: black;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #F5FFFA;
+	border-radius: 10px;
+}
+
+
+
+#owly {
+	border-radius: 100%;
+	width: 250px;
+}
+
+
+
+#owly:hover {
+	animation-name: rollOver;
+	animation-duration: 1s;
+	animation-iteration-count: 1;
+}
+
+
+
+@keyframes rollOver {
+	0% {
+	transform: rotate(0deg);
+	}
+	100% {
+	transform: rotate(-360deg);
+	}
+	}
+
+
+	
+.topDivider {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: black;
+  padding-bottom: 500px;
+}
+
+
+.topDivider1{
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: black;
+  padding-bottom: 5px;
+}
+
+
+
+.topDivider4 {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #000000;
+  padding-bottom:  10px;
+}
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 3px solid black;
+  #border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 10px;
+  
+}
+th {
+  color: red;
+  text-align: center;
+}
+td {
+  color: black;
+  text-align: left;
+}
+/********************************/
